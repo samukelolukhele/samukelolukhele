@@ -22,6 +22,8 @@
   <h3> 🤝Connect with me </h3>
   
  - &nbsp; kelo.lukhele@gmail.com
+ - &nbsp; [Portfolio Site](https://samukelol.vercel.app/)
+
 <!---
 samukelolukhele/samukelolukhele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
