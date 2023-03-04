@@ -2,7 +2,7 @@
  
   <h3>🧑🏾‍💻About Me</h3>
     
-- ♥️ &nbsp; Self-taught web developer. Learning for the love of it.
+- ♥️ &nbsp; Self-taught web developer. Doing it for the love of it.
     
 - 🧐 &nbsp; Exploring the full potential of JavaScript and its awesome frameworks.
     
