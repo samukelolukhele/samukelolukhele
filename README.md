@@ -21,7 +21,7 @@
   
   <h3> 🤝Connect with me </h3>
   
- - &nbsp; samukelo.business@gmail.com
+ - &nbsp; kelo.lukhele@gmail.com
 <!---
 samukelolukhele/samukelolukhele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
