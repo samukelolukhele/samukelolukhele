@@ -11,7 +11,7 @@
   
 <h3>Tech Stack </h3>
   
- - 🌐 &nbsp; HTML | CSS | Tailwind | Bootstrap | JavaScript | TypeScript | Angular | React | NodeJS | C# | ASP.NET Core
+ - 🌐 &nbsp; HTML | CSS | Tailwind | Bootstrap | JavaScript | TypeScript | Angular | React | NodeJS | NestJS | ExpressJS | C# | ASP.NET Core
   
  - 🗂 &nbsp; MongoDB | MySql | PostgreSQL
   
