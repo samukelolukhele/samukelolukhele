@@ -2,18 +2,18 @@
  
   <h3>🧑🏾‍💻About Me</h3>
     
-- ♥️ &nbsp; Self-taught web developer. Doing it for the love of it.
+- ♥️ &nbsp; Self-taught web developer who is always seeking new challenges.
     
 - 🧐 &nbsp; Exploring the full potential of JavaScript and its awesome frameworks.
     
-- 🌱 &nbsp; Learning more about Web Design, Cybersecurity and APIs.
+- 🌱 &nbsp; Learning more about Web Design, Cybersecurity, and Machine Learning.
 
   
 <h3>Tech Stack </h3>
   
- - 🌐 &nbsp; HTML | CSS | Tailwind | Bootstrap | JavaScript | React | NodeJS
+ - 🌐 &nbsp; HTML | CSS | Tailwind | Bootstrap | JavaScript | React | NodeJS | C# | ASP.NET Core
   
- - 🗂 &nbsp; MongoDB | MySql
+ - 🗂 &nbsp; MongoDB | MySql | PostgreSQL
   
  - 🔧 &nbsp; Git | Markdown
   
